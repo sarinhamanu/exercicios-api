@@ -36,7 +36,7 @@ copy .env.example .env
 code .
 ```
 ## insomnia
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=exercicios%20API&uri=https%3A%2F%2Fraw.githubusercontent.com%2sarinhamanu%2Fexercicios-api%2Fmain%2FInsomnia.json)
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=exercicios%20api&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fsarinhamanu%2Fexercicios-api%2Fmain%2FInsomnia.json)
 
 ## Licença
 
