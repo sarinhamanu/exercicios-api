@@ -35,18 +35,7 @@ class ExercicioUmFormRequest extends FormRequest
             response()->json([
                 'success'=> false,
                 'error'=> $validator->errors()
-            ])
-            );
-    }
-
-    public function messages()
-    {
-        return[
-            'primeiro_numero.required' => 'preencha o campo primeiro numero',
-            'primeiro_numero.numeric' =>'o campo é somente numeros,',
-            'segundo_numero.required' => 'preencha o campo segundo numero',
-            'segundo_numero.numeric' =>'o campo é somente numeros,',
-
-        ];
+            ]);
+        );
     }
 }
