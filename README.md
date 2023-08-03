@@ -17,7 +17,7 @@ Certifique-se de ter os seguintes requisitos atendidos antes de começar a traba
 
 1. Clone este repositório para o seu ambiente de desenvolvimento local utilizando o comando:
 ```
- git clone https://github.com/MIMIMINISAIA/exercicio-api.git
+ git clone https://github.com/sarinhamanu/exercicios-api.git
 ```
 2. Acesse o diretório do projeto:
 ```
@@ -36,7 +36,7 @@ copy .env.example .env
 code .
 ```
 ## insomnia
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=exercicios%20API&uri=https%3A%2F%2Fraw.githubusercontent.com%2FMIMIMINISAIA%2Fexercicios-api%2Fmain%2FInsomnia.json)
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=exercicios%20API&uri=https%3A%2F%2Fraw.githubusercontent.com%2sarinhamanu%2Fexercicios-api%2Fmain%2FInsomnia.json)
 
 ## Licença
 
